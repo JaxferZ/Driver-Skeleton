@@ -1,0 +1,17 @@
+{
+    "---C125P001A000R001": {
+        "has_skeleton": true, 
+        "label": "safedriving", 
+        "label_index": 0
+    }, 
+    "--C155P009A001R001": {
+        "has_skeleton": true, 
+        "label": "Texting right", 
+        "label_index": 1
+    }, 
+    "--C185P001A002R001": {
+        "has_skeleton": true, 
+        "label": "Talking right", 
+        "label_index": 2
+    }
+}
